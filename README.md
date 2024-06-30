@@ -5,4 +5,9 @@
 
 [คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/EQ6l9WirYQ5GhUBABHB5BiUBQNhFHbzaaUAxFSTsH_72uA?e=ED20AS)
 
- <strong>GITHUB PAGE URL : </strong>
+ <strong>GITHUB PAGE URL : http://127.0.0.1:5501/cons.html </strong>
+
+History!
+Warangkana Jitwarangkana [Maprang]
+660610792 Computer Engineering student
+Chiang Mai university
